@@ -1,0 +1,25 @@
+
+.section{
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 3px;
+    border-color: #171717;
+    border-style: solid;
+    border-radius: 10px;
+}
+.section1{
+    background-color: #e6a2a2;
+    color: #600;
+    font-family: "Aboreto" !important;
+}
+.section2{
+    background-color: #a2c4e6;
+    color: #004080;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.section3{
+    background-color: #a2e6c4;
+    color: #00663d;
+    font-family: "Fuggles";
+}
